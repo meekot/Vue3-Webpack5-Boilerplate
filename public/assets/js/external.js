@@ -1,0 +1,1 @@
+console.log("i'm js non npm package")
